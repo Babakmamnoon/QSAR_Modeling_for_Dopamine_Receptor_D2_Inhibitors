@@ -3,6 +3,7 @@
 
 This repository contains an end-to-end cheminformatics workflow designed to curate data from the ChEMBL database and train a Quantitative Structure-Activity Relationship (QSAR) regression model. The pipeline focuses specifically on active inhibitors ($IC_{50} < 1000\text{ nM}$) targeting the Human Dopamine Receptor D2 ($DRD_2$, ChEMBL ID: `CHEMBL217`) to optimize affinity prediction within high-potency chemical spaces.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Babakmamnoon/QSAR_Modeling_for_Dopamine_Receptor_D2_Inhibitors/blob/main/DRD2_QSAR_Modeling.ipynb)
 ---
 
 ## Dataset Summary
