@@ -40,9 +40,9 @@ An ensemble machine learning regressor (such as Random Forest, Gradient Boosting
 
 ### 7. Model Training & Performance Visualizations
 The model is fitted onto the training partition. Model accuracy is systematically benchmarked across both splits using regression performance diagnostics:
-* Coefficient of Determination ($R^2$)
-* Mean Squared Error ($MSE$)
-* Root Mean Squared Error ($RMSE$)
+* Coefficient of Determination (R^2)
+* Mean Squared Error (MSE)
+* Root Mean Squared Error (RMSE)
 Actual vs. Predicted scatter plots are generated to analyze linear alignment across the active space.
 
 ### 8. Residual Error Analysis
